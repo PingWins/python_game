@@ -21,7 +21,7 @@ while langue:
     ──█─█──█─█───█──────█───█─█─█──█──█
     ███─█──█─█───█────███─███─█──█─█──█
         ''')
-        for load in range (1, 10):
+        for load in range (1, 11):
             time.sleep(0.5)
             print (end ='███─', flush = True)
         time.sleep(1)
